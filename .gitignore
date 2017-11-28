@@ -1,0 +1,21 @@
+#################  
+## Code::Blocks  
+#################  
+
+*.depend  
+*.layout  
+*.cbp
+
+# generated directories
+bin/
+obj/
+
+############  
+## Windows  
+############  
+
+# Windows image file caches  
+Thumbs.db  
+
+# Folder config file  
+Desktop.ini
